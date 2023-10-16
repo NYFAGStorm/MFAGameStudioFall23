@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MFAGameStudioFall23/DragonRaceGame/Content/Levels/Prototype/GreyBoxKonTest.umap",
+				"D:/MFAGameStudioFall23/DragonRaceGame/Content/Levels/Prototype/DragonPawnTest.umap",
+				"D:/MFAGameStudioFall23/DragonRaceGame/Content/Levels/Prototype/Greybox.umap",
+				"D:/MFAGameStudioFall23/DragonRaceGame/Content/Levels/Prototype/KonGreyBox.umap",
+				"D:/MFAGameStudioFall23/DragonRaceGame/Content/Levels/Prototype/DragonPawnnTest.umap",
+				"D:/MFAGameStudioFall23/DragonRaceGame/Content/Levels/Prototype/Greybox.umap",
 				"D:/NYFA GAME/Documents/Unreal Projects/MFA Fall23/MFAGameStudioFall23/DragonRaceGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/NYFA GAME/Documents/Unreal Projects/MFA Fall23/MFAGameStudioFall23/DragonRaceGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EW/S7N5MLZZ1Y8DMJBU9R8Y77.uasset",
 				"D:/NYFA GAME/Documents/Unreal Projects/MFA Fall23/MFAGameStudioFall23/DragonRaceGame/Content/Levels/Prototype/DragonPawnTest.umap",
